@@ -1,4 +1,5 @@
 # AndBibleBookmarks
+Bookmarked Bible lines collected on various topics
 
 *English*
 
@@ -18,6 +19,7 @@ Installation procedure:
     - AndBible / Menu (three dots) / Backup & Restore / Restore app databases from... / Phone memory / Want to overwrite my notes, bookmarks, reading plans and workspaces / OK
     or
     - AndBible / Menu (three dots) / Backup & Restore / Restore databases from... / Recently / andBibleDatabase.db
+
 
 
 *Slovenščina*
