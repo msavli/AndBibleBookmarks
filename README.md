@@ -11,7 +11,7 @@ Opomba: Primerno samo za prvo namestitev AndBible aplikacije, ker prepiše vaše
  
 Postopek namestitve:
  - Download andBibleDatabase.db na vaš Android telefon.
-    - AndBible / Menu (tri črtice) / Deli, Arhiviraj, Obnovi / Obnovitev baze aplikacije iz...
+    - AndBible / Menu (tri črtice) / Deli, Arhiviraj, Obnovi / Obnovitev baze aplikacije iz... (AndBible ver 3.4.XXX)
     - AndBible / Menu (tri črtice) / Varnostna kopija & Obnova / Obnovite baze iz... / Pomnilnik telefona / Želite prepisati moje opombe, zaznamke, načrte za branje in delovne prostore / OK / Download / andBibleDatabase.db
     ali
     - AndBible / Menu (tri črtice) / Varnostna kopija & Obnova / Obnovite baze iz... / Nedavno / andBibleDatabase.db
