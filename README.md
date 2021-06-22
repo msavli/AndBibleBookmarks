@@ -1,9 +1,9 @@
 # AndBibleBookmarks
-Bookmarked Bible lines collected on various topics
+Bookmarked Bible verses collected on various topics
 
 *English*
 
-Bookmarked Bible lines collected on various topics for the [AndBible](https://play.google.com/store/apps/details?id=net.bible.android.activity&hl=en_US&gl=US):
+Bookmarked Bible verses collected on various topics for the [AndBible](https://play.google.com/store/apps/details?id=net.bible.android.activity&hl=en_US&gl=US):
 
 Topics: Blessing, Blessing - deny after Gal 3:13, Covid19, Doubt, Enemies, Faith in difficult times, Favor, God's promises, Government, Healing, Healing - deny after Gal 3:13, Healing - eyes, Healing - foundations , Laughter & Joy, Old age, Prayer, Preaching gospel, Prosperity, Protection, Protection from deception, Unity, Victorious life, Weather, Worry -> Peace, Worship)
 
