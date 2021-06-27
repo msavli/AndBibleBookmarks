@@ -5,7 +5,7 @@ Bookmarked Bible verses collected on various topics
 
 Bookmarked Bible verses collected on various topics for the [AndBible](https://play.google.com/store/apps/details?id=net.bible.android.activity&hl=en_US&gl=US):
 
-Topics: Blessing, Blessing - deny after Gal 3:13, Covid19, Doubt, Enemies, Faith in difficult times, Favor, God's promises, Government, Healing, Healing - deny after Gal 3:13, Healing - eyes, Healing - foundations , Laughter & Joy, Old age, Prayer, Preaching gospel, Prosperity, Protection, Protection from deception, Unity, Victorious life, Weather, Worry -> Peace, Worship)
+Topics: Blessing, Blessing - deny after Gal 3:13, Covid19, Doubt, Enemies, Faith in difficult times, Favor, God's promises, Government, Healing, Healing - deny after Gal 3:13, Healing - foundations, Healing - eyes, Laughter & Joy, Marriage, Old age, Prayer, Preaching gospel, Prosperity, Protection, Protection from deception, Tongue, Unity, Victorious life, Weather, Worry -> Peace, Worship)
 
 In this file is included also:
  - Workspaces (unmaintained)
@@ -25,7 +25,7 @@ Installation procedure:
 *Slovenščina*
 
 Zaznamki biblijskih vrstic, ki so zbrane po različnih temah za program [AndBible](https://play.google.com/store/apps/details?id=net.bible.android.activity&hl=en_US&gl=US):
-(blagoslov, Božje obljube, dvom, enotnost, molitev, naklonjenost, ozdravljenje, ozdravljenje oči, temelji ozdravljanja, oznanjevanje, prosperiteta, skrb in tesnoba -> MIR, slavljenje, smeh in radost, vera v težkih časih, visoka starost, vreme, za vlado, zaščita, zaščita pred zavajanjem, zmagoslavno življenje, zoper sovražnike)
+(blagoslov, Božje obljube, dvom, enotnost, molitev, naklonjenost, ozdravljenje, ozdravljenje oči, temelji ozdravljanja, oznanjevanje, prosperiteta, skrb in tesnoba -> MIR, slavljenje, smeh in radost, vera v težkih časih, visoka starost, vreme, za vlado, zaščita, zaščita pred zavajanjem, zmagoslavno življenje, zoper sovražnike, poroka, jezik)
 
 Datoteke vsebuje tudi:
  - Delovne prostore (nevzdrževano)
